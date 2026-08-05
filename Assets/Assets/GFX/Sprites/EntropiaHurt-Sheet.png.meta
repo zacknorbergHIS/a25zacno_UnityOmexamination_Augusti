@@ -1,10 +1,19 @@
 fileFormatVersion: 2
-guid: 37cc1d260f99fca43a4c48f72ffa5da5
+guid: 1dcb65eb6246e88498d0880a98b3307d
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6894999169920593895
-    second: 25_0
+      213: -7401192757730994671
+    second: EntropiaHurt-Sheet_0
+  - first:
+      213: -1828073609037664357
+    second: EntropiaHurt-Sheet_1
+  - first:
+      213: 7279550125469166955
+    second: EntropiaHurt-Sheet_2
+  - first:
+      213: 2164289118242331672
+    second: EntropiaHurt-Sheet_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +109,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: 25_0
+      name: EntropiaHurt-Sheet_0
       rect:
         serializedVersion: 2
-        x: 174
-        y: 138
-        width: 136
-        height: 211
+        x: 111
+        y: 83
+        width: 43
+        height: 86
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +124,74 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7efeab9b635ffaf50800000000000000
-      internalID: 6894999169920593895
+      spriteID: 1161049666ea94990800000000000000
+      internalID: -7401192757730994671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntropiaHurt-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 83
+        width: 62
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f2b06fcb061a6e0800000000000000
+      internalID: -1828073609037664357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntropiaHurt-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 83
+        width: 63
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d6d393548260560800000000000000
+      internalID: 7279550125469166955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntropiaHurt-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 83
+        width: 51
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81cd3147c79190e10800000000000000
+      internalID: 2164289118242331672
       vertices: []
       indices: 
       edges: []
@@ -135,7 +210,10 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      25_0: 6894999169920593895
+      EntropiaHurt-Sheet_0: -7401192757730994671
+      EntropiaHurt-Sheet_1: -1828073609037664357
+      EntropiaHurt-Sheet_2: 7279550125469166955
+      EntropiaHurt-Sheet_3: 2164289118242331672
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

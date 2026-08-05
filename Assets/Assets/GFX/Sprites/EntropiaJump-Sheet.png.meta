@@ -1,19 +1,22 @@
 fileFormatVersion: 2
-guid: 1dcb65eb6246e88498d0880a98b3307d
+guid: d5ffff934e313b342a733801a4a392d4
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7401192757730994671
-    second: EntropiaHurt-Sheet_0
+      213: -1505485289401605753
+    second: EntropiaJump-Sheet_0
   - first:
-      213: -1828073609037664357
-    second: EntropiaHurt-Sheet_1
+      213: -3218234124800932027
+    second: EntropiaJump-Sheet_1
   - first:
-      213: 7279550125469166955
-    second: EntropiaHurt-Sheet_2
+      213: -8357994913892862041
+    second: EntropiaJump-Sheet_2
   - first:
-      213: 2164289118242331672
-    second: EntropiaHurt-Sheet_3
+      213: -3009346774273808280
+    second: EntropiaJump-Sheet_3
+  - first:
+      213: 1516555487454898216
+    second: EntropiaJump-Sheet_4
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,7 +49,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -109,12 +112,12 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: EntropiaHurt-Sheet_0
+      name: EntropiaJump-Sheet_0
       rect:
         serializedVersion: 2
-        x: 111
-        y: 83
-        width: 43
+        x: 112
+        y: 81
+        width: 40
         height: 86
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -124,20 +127,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1161049666ea94990800000000000000
-      internalID: -7401192757730994671
+      spriteID: 78124ae0b117b1be0800000000000000
+      internalID: -1505485289401605753
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: EntropiaHurt-Sheet_1
+      name: EntropiaJump-Sheet_1
       rect:
         serializedVersion: 2
-        x: 357
-        y: 83
-        width: 62
-        height: 89
+        x: 370
+        y: 84
+        width: 45
+        height: 93
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -146,20 +149,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b9f2b06fcb061a6e0800000000000000
-      internalID: -1828073609037664357
+      spriteID: 547433b4d198653d0800000000000000
+      internalID: -3218234124800932027
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: EntropiaHurt-Sheet_2
+      name: EntropiaJump-Sheet_2
       rect:
         serializedVersion: 2
-        x: 617
-        y: 83
-        width: 63
-        height: 90
+        x: 611
+        y: 87
+        width: 66
+        height: 104
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -168,20 +171,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b6d6d393548260560800000000000000
-      internalID: 7279550125469166955
+      spriteID: 7a7f4ea88ef620c80800000000000000
+      internalID: -8357994913892862041
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: EntropiaHurt-Sheet_3
+      name: EntropiaJump-Sheet_3
       rect:
         serializedVersion: 2
-        x: 879
+        x: 857
         y: 83
-        width: 51
-        height: 84
+        width: 71
+        height: 94
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -190,8 +193,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 81cd3147c79190e10800000000000000
-      internalID: 2164289118242331672
+      spriteID: 86821719d07ac36d0800000000000000
+      internalID: -3009346774273808280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntropiaJump-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 83
+        width: 45
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8282be74e23eb0510800000000000000
+      internalID: 1516555487454898216
       vertices: []
       indices: 
       edges: []
@@ -210,10 +235,11 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      EntropiaHurt-Sheet_0: -7401192757730994671
-      EntropiaHurt-Sheet_1: -1828073609037664357
-      EntropiaHurt-Sheet_2: 7279550125469166955
-      EntropiaHurt-Sheet_3: 2164289118242331672
+      EntropiaJump-Sheet_0: -1505485289401605753
+      EntropiaJump-Sheet_1: -3218234124800932027
+      EntropiaJump-Sheet_2: -8357994913892862041
+      EntropiaJump-Sheet_3: -3009346774273808280
+      EntropiaJump-Sheet_4: 1516555487454898216
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
