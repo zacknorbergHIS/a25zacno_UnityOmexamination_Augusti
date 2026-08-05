@@ -112,10 +112,10 @@ TextureImporter:
       name: EntropiaHurt-Sheet_0
       rect:
         serializedVersion: 2
-        x: 111
-        y: 83
-        width: 43
-        height: 86
+        x: 112
+        y: 84
+        width: 41
+        height: 84
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -134,10 +134,10 @@ TextureImporter:
       name: EntropiaHurt-Sheet_1
       rect:
         serializedVersion: 2
-        x: 357
-        y: 83
-        width: 62
-        height: 89
+        x: 358
+        y: 84
+        width: 60
+        height: 87
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -156,10 +156,10 @@ TextureImporter:
       name: EntropiaHurt-Sheet_2
       rect:
         serializedVersion: 2
-        x: 617
-        y: 83
-        width: 63
-        height: 90
+        x: 618
+        y: 84
+        width: 61
+        height: 88
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -178,10 +178,10 @@ TextureImporter:
       name: EntropiaHurt-Sheet_3
       rect:
         serializedVersion: 2
-        x: 879
-        y: 83
-        width: 51
-        height: 84
+        x: 880
+        y: 84
+        width: 49
+        height: 82
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -200,7 +200,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 247adf51014c2df4e9e126ea759c4b9d
     internalID: 0
     vertices: []
     indices: 

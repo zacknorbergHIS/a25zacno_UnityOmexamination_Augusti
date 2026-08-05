@@ -112,10 +112,10 @@ TextureImporter:
       name: EntropiaAttack2-Sheet_0
       rect:
         serializedVersion: 2
-        x: 110
-        y: 83
-        width: 41
-        height: 90
+        x: 111
+        y: 84
+        width: 39
+        height: 88
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -134,10 +134,10 @@ TextureImporter:
       name: EntropiaAttack2-Sheet_1
       rect:
         serializedVersion: 2
-        x: 358
-        y: 83
-        width: 53
-        height: 89
+        x: 359
+        y: 84
+        width: 51
+        height: 87
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -156,10 +156,10 @@ TextureImporter:
       name: EntropiaAttack2-Sheet_2
       rect:
         serializedVersion: 2
-        x: 579
-        y: 83
-        width: 188
-        height: 86
+        x: 580
+        y: 84
+        width: 186
+        height: 84
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -178,10 +178,10 @@ TextureImporter:
       name: EntropiaAttack2-Sheet_3
       rect:
         serializedVersion: 2
-        x: 837
-        y: 83
-        width: 99
-        height: 86
+        x: 838
+        y: 84
+        width: 97
+        height: 84
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -200,7 +200,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 8fb6afc6cc1b45847ae8989c256f6672
     internalID: 0
     vertices: []
     indices: 
